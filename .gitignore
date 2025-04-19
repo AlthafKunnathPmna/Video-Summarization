@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+uploads/
+frames/
+filtered_frames/
+audio.wav
+*.txt
+*.md
+*.pdf
+.env
